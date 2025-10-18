@@ -1,2 +1,2 @@
 # Titanic-dataset
-~a self project~
+~a self project
